@@ -1,8 +1,6 @@
 <script>
 	import { onMount } from 'svelte';
 	import OpenSeadragon from 'openseadragon';
-	import Icon from '@iconify/svelte';
-
 
 	onMount( async () => {
 
