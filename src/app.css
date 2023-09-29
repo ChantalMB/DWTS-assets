@@ -1,0 +1,23 @@
+html, body {
+    position: relative;
+    /* width: 100vw;
+    height: 100vh; */
+    background-color: rgb(27, 27, 27);
+    color: antiquewhite;
+}
+
+body {
+	margin:0;
+	padding:0;
+}
+
+a {
+    color: antiquewhite;
+}
+
+.r6o-icon.r6o-arrow-down,
+.r6o-widget.comment.editable,
+.r6o-widget.r6o-tag,
+.r6o-footer {
+    display: none !important;
+}

@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/geographia-1913/+page.svelte";
