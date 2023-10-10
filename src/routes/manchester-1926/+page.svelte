@@ -193,7 +193,7 @@
                                 "body": [
                                     {
                                         "type": "TextualBody",
-                                        "value": "Sephardi Synagogue\n\n24 Wicker Ln, Hale Barns, Altrincham WA15 0HQ, United Kingdom\n\nSephardi Jews lived originally in Spain and Portugal. They migrated to England in the eighteenth and nineteenth centuries and opened their first synagogue on Cheetham Hill Road in 1874. It was not bombed in December 1940.",
+                                        "value": "Sephardi Synagogue\n\n190 Cheetham Hill Rd M8 8LW Manchester\n\nSephardi Jews lived originally in Spain and Portugal. They migrated to England in the eighteenth and nineteenth centuries and opened their first synagogue on Cheetham Hill Road in 1874. It was not bombed in December 1940.",
                                         "purpose": "commenting"
                                     }
                                 ],

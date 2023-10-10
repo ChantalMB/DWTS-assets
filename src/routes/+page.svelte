@@ -7,3 +7,9 @@
     <li><a href="/geographia-1913">Geographia, 1913</a></li>
     <li><a href="/geographia-1923">Geographia, 1923</a></li>
   </ul>
+
+  <style>
+    h1 {
+      margin: 15px;
+    }
+  </style>
