@@ -147,7 +147,7 @@
                                 "body": [
                                     {
                                         "type": "TextualBody",
-                                        "value": "University of Manchester\n\nOxford Road\n\nPlaceholder text",
+                                        "value": "University of Manchester\n\nOxford Road\n\nLike many English universities, the University of Manchester began as a single college, Owens College, and was founded by business owner John Owens. By World War II, the college had become a centre of research, where students could study the arts, sciences, engineering, and medicine. It was not bombed in December 1940.",
                                         "purpose": "commenting"
                                     }
                                 ],
@@ -170,7 +170,7 @@
                                 "body": [
                                     {
                                         "type": "TextualBody",
-                                        "value": "Victoria Park Mosque\n\n20 Upper Park Rd, Manchester M14 5RU, United Kingdom\n\nPlaceholder text",
+                                        "value": "Victoria Park Mosque\n\n20 Upper Park Rd, Manchester M14 5RU, United Kingdom\n\nMuslim families and congregations have lived in England for centuries. In the early 1900s, members of the Muslim communities in Manchester gathered for worship in two houses in Victoria Park in south Manchester and continued to do so during World War II. The mosque was not bombed in December 1940.",
                                         "purpose": "commenting"
                                     }
                                 ],
@@ -187,6 +187,29 @@
                                 },
                                 "@context": "http://www.w3.org/ns/anno.jsonld",
                                 "id": "#f31ac473-f3c1-4ec3-ba2b-e084648805fe"
+                            },
+                            {
+                                "type": "Annotation",
+                                "body": [
+                                    {
+                                        "type": "TextualBody",
+                                        "value": "Sephardi Synagogue\n\n24 Wicker Ln, Hale Barns, Altrincham WA15 0HQ, United Kingdom\n\nSephardi Jews lived originally in Spain and Portugal. They migrated to England in the eighteenth and nineteenth centuries and opened their first synagogue on Cheetham Hill Road in 1874. It was not bombed in December 1940.",
+                                        "purpose": "commenting"
+                                    }
+                                ],
+                                "target": {
+                                    "source": "http://localhost:5173/images/manchester-1926.jpg",
+                                    "selector": {
+                                        "type": "FragmentSelector",
+                                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                        "value": "xywh=pixel:3395.929443359375,1976.572509765625,0,0"
+                                    },
+                                    "renderedVia": {
+                                        "name": "point"
+                                    }
+                                },
+                                "@context": "http://www.w3.org/ns/anno.jsonld",
+                                "id": "#641704dc-1db4-4a7c-9cfb-53a1605f07e0"
                             }
                         ];
 

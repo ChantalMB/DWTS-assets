@@ -10,7 +10,7 @@ return {
 	assets: new Set([".DS_Store","favicon.png","images/bus-and-tram.jpg","images/cycling-map.jpg","images/geographia-1913.jpg","images/geographia-1923.jpg","images/manchester-1926.jpg"]),
 	mimeTypes: {".png":"image/png",".jpg":"image/jpeg"},
 	_: {
-		client: {"start":"_app/immutable/entry/start.b20e59f8.js","app":"_app/immutable/entry/app.f01c0dbd.js","imports":["_app/immutable/entry/start.b20e59f8.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/singletons.65f93543.js","_app/immutable/entry/app.f01c0dbd.js","_app/immutable/chunks/preload-helper.a4192956.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/index.a21d6cee.js"],"stylesheets":[],"fonts":[]},
+		client: {"start":"_app/immutable/entry/start.2ec11b2c.js","app":"_app/immutable/entry/app.bfd65b51.js","imports":["_app/immutable/entry/start.2ec11b2c.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/singletons.b4835885.js","_app/immutable/entry/app.bfd65b51.js","_app/immutable/chunks/preload-helper.a4192956.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/index.a21d6cee.js"],"stylesheets":[],"fonts":[]},
 		nodes: [
 			__memo(() => import('./nodes/0.js')),
 			__memo(() => import('./nodes/1.js')),
