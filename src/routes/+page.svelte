@@ -1,6 +1,7 @@
 <h1>DWTS Game Assets</h1>
 <ul>
     <li>Sound buttons</li>
+    <li><a href="/game-timeline">WWII Timeline</a></li>
     <li><a href="/manchester-1926">Manchester, 1926</a></li>
     <li><a href="/bus-and-tram">Bus and Tram</a></li>
     <!-- <li><a href="/cycling-map">Cycling Map</a></li> -->

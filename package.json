@@ -21,6 +21,7 @@
 	"dependencies": {
 		"@recogito/annotorious-openseadragon": "^2.7.12",
 		"@recogito/annotorious-selector-pack": "^0.5.3",
-		"openseadragon": "^3.1.0"
+		"openseadragon": "^3.1.0",
+		"sveltestrap": "github:bestguy/sveltestrap#pull/574/head"
 	}
 }
