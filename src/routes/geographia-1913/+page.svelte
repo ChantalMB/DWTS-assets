@@ -210,6 +210,121 @@
                                 },
                                 "@context": "http://www.w3.org/ns/anno.jsonld",
                                 "id": "#540b2479-4399-4b9c-86a4-9fefe63f7bee"
+                            },
+                            {
+                                "type": "Annotation",
+                                "body": [
+                                    {
+                                        "type": "TextualBody",
+                                        "value": "The Hendersons household, on Broughton St.",
+                                        "purpose": "commenting"
+                                    }
+                                ],
+                                "target": {
+                                    "source": "http://localhost:5173/images/geographia-1913.jpg",
+                                    "selector": {
+                                        "type": "FragmentSelector",
+                                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                        "value": "xywh=pixel:3083.39794921875,1585.549072265625,0,0"
+                                    },
+                                    "renderedVia": {
+                                        "name": "point"
+                                    }
+                                },
+                                "@context": "http://www.w3.org/ns/anno.jsonld",
+                                "id": "#bf3d0f38-5726-4280-8186-13ca6e3928a3"
+                            },
+                            {
+                                "type": "Annotation",
+                                "body": [
+                                    {
+                                        "type": "TextualBody",
+                                        "value": "The Empeys household, on Waterloo Rd.",
+                                        "purpose": "commenting"
+                                    }
+                                ],
+                                "target": {
+                                    "source": "http://localhost:5173/images/geographia-1913.jpg",
+                                    "selector": {
+                                        "type": "FragmentSelector",
+                                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                        "value": "xywh=pixel:2898.0146484375,1559.135009765625,0,0"
+                                    },
+                                    "renderedVia": {
+                                        "name": "point"
+                                    }
+                                },
+                                "@context": "http://www.w3.org/ns/anno.jsonld",
+                                "id": "#976558da-912d-4ad1-b52a-afb2d38de55f"
+                            },
+                            {
+                                "type": "Annotation",
+                                "body": [
+                                    {
+                                        "type": "TextualBody",
+                                        "value": "The Engels household, on Cheetham Hill Rd.",
+                                        "purpose": "commenting"
+                                    }
+                                ],
+                                "target": {
+                                    "source": "http://localhost:5173/images/geographia-1913.jpg",
+                                    "selector": {
+                                        "type": "FragmentSelector",
+                                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                        "value": "xywh=pixel:3209.8349609375,1773.2183837890625,0,0"
+                                    },
+                                    "renderedVia": {
+                                        "name": "point"
+                                    }
+                                },
+                                "@context": "http://www.w3.org/ns/anno.jsonld",
+                                "id": "#81c12d26-c673-450e-b46a-6d02f9ed01f1"
+                            },
+                            {
+                                "type": "Annotation",
+                                "body": [
+                                    {
+                                        "type": "TextualBody",
+                                        "value": "The Baileys household, on Elizabeth St.",
+                                        "purpose": "commenting"
+                                    }
+                                ],
+                                "target": {
+                                    "source": "http://localhost:5173/images/geographia-1913.jpg",
+                                    "selector": {
+                                        "type": "FragmentSelector",
+                                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                        "value": "xywh=pixel:3086.4638671875,1331.2169189453125,0,0"
+                                    },
+                                    "renderedVia": {
+                                        "name": "point"
+                                    }
+                                },
+                                "@context": "http://www.w3.org/ns/anno.jsonld",
+                                "id": "#06ec6781-6373-4b11-ab84-ca3490252a56"
+                            },
+                            {
+                                "type": "Annotation",
+                                "body": [
+                                    {
+                                        "type": "TextualBody",
+                                        "value": "The Sklars household, on Walnut St.",
+                                        "purpose": "commenting"
+                                    }
+                                ],
+                                "target": {
+                                    "source": "http://localhost:5173/images/geographia-1913.jpg",
+                                    "selector": {
+                                        "type": "FragmentSelector",
+                                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                        "value": "xywh=pixel:2941.6982421875,1093.578125,0,0"
+                                    },
+                                    "renderedVia": {
+                                        "name": "point"
+                                    }
+                                },
+                                "@context": "http://www.w3.org/ns/anno.jsonld",
+                                "id": "#07cdc302-038c-4b1d-9262-25a815781195"
                             }
                         ];
 

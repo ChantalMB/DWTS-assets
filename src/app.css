@@ -21,3 +21,28 @@ a {
 .r6o-footer {
     display: none !important;
 }
+
+/* Hendersons */
+.a9s-annotationlayer .a9s-annotation[data-id="#bf3d0f38-5726-4280-8186-13ca6e3928a3"] .a9s-outer {
+    stroke: rgb(215, 63, 63);
+}
+
+/* Empeys */
+.a9s-annotationlayer .a9s-annotation[data-id="#976558da-912d-4ad1-b52a-afb2d38de55f"] .a9s-outer {
+    stroke: rgb(240, 175, 35);
+}
+
+/* Engels */
+.a9s-annotationlayer .a9s-annotation[data-id="#81c12d26-c673-450e-b46a-6d02f9ed01f1"] .a9s-outer {
+    stroke: rgb(120, 174, 13);
+}
+
+/* Baileys */
+.a9s-annotationlayer .a9s-annotation[data-id="#06ec6781-6373-4b11-ab84-ca3490252a56"] .a9s-outer {
+    stroke: rgb(203, 0, 203);
+}
+
+/* Sklars */
+.a9s-annotationlayer .a9s-annotation[data-id="#07cdc302-038c-4b1d-9262-25a815781195"] .a9s-outer {
+    stroke: rgb(100, 143, 251);
+}
