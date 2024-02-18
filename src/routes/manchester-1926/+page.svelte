@@ -9,7 +9,7 @@
                                 "body": [
                                     {
                                         "type": "TextualBody",
-                                        "value": "Greenep’s Tobacco and Sweets\n\n426 Cheetham Hill Road\n\nGreenep’s Tobacco and Sweets shop was a popular spot in Cheetham Hill. They sold Needler’s sweets as well as Cadbury’s chocolates and cocoa.\n\nThe shop was not bombed in December 1940 and was a place where families from the neighbour would meet and share community news.\n",
+                                        "value": "Greenep’s Tobacco and Sweets\n\nCheetham Hill Road\n\nGreenep’s Tobacco and Sweets shop was a popular spot in Cheetham Hill. They sold Needler’s sweets as well as Cadbury’s chocolates and cocoa.\n\nThe shop was not bombed in December 1940 and was a place where families from the neighbour would meet and share community news.\n",
                                         "purpose": "commenting"
                                     }
                                 ],
@@ -18,7 +18,7 @@
                                     "selector": {
                                         "type": "FragmentSelector",
                                         "conformsTo": "http://www.w3.org/TR/media-frags/",
-                                        "value": "xywh=pixel:3235.484130859375,1307.2132568359375,0,0"
+                                        "value": "xywh=pixel:3435.636962890625,1605.8677978515625,0,0"
                                     },
                                     "renderedVia": {
                                         "name": "point"
@@ -78,7 +78,7 @@
                                 "body": [
                                     {
                                         "type": "TextualBody",
-                                        "value": "Cheetham Hill Assembly Rooms\n\n111 Cheetham Hill Road\n\nThe Assembly Rooms opened in 1857. The rooms (both large and small) drew people of the higher social classes from across the city and surrounding area. This was the spot to be for weddings, dances, and gathering gossip.",
+                                        "value": "Cheetham Hill Assembly Rooms (Community bomb shelter)\n\n111 Cheetham Hill Road\n\nThe Assembly Rooms opened in 1857. The rooms (both large and small) drew people of the higher social classes from across the city and surrounding area. This was the spot to be for weddings, dances, and gathering gossip.",
                                         "purpose": "commenting"
                                     }
                                 ],
