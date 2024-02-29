@@ -1,5 +1,13 @@
 <div class="audio-players">
     <div>
+        <p>Westminster Chime</p>
+        <audio controls src="/westminster.mp3"></audio>
+    </div>
+
+    <br/>
+    <br/>
+
+    <div>
         <p>Single Siren</p>
         <audio controls src="/Siren_Single.mp3"></audio>
     </div>
