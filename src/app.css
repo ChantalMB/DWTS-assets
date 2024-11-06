@@ -15,12 +15,12 @@ a {
     color: antiquewhite;
 }
 
-.r6o-icon.r6o-arrow-down,
+/* .r6o-icon.r6o-arrow-down,
 .r6o-widget.comment.editable,
 .r6o-widget.r6o-tag,
 .r6o-footer {
     display: none !important;
-}
+} */
 
 /* Hendersons */
 .a9s-annotationlayer .a9s-annotation[data-id="#bf3d0f38-5726-4280-8186-13ca6e3928a3"] .a9s-outer {

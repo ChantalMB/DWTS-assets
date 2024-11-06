@@ -325,6 +325,52 @@
                                 },
                                 "@context": "http://www.w3.org/ns/anno.jsonld",
                                 "id": "#07cdc302-038c-4b1d-9262-25a815781195"
+                            },
+                            {
+                                "type": "Annotation",
+                                "body": [
+                                    {
+                                        "type": "TextualBody",
+                                        "value": "The Khans, fellow community members, living on Bridgeoak St.",
+                                        "purpose": "commenting"
+                                    }
+                                ],
+                                "target": {
+                                    "source": "http://localhost:5173/images/geographia-1913.jpg",
+                                    "selector": {
+                                        "type": "FragmentSelector",
+                                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                        "value": "xywh=pixel:3159.181884765625,1082.0975341796875,0,0"
+                                    },
+                                    "renderedVia": {
+                                        "name": "point"
+                                    }
+                                },
+                                "@context": "http://www.w3.org/ns/anno.jsonld",
+                                "id": "#6c610bee-0ff6-4648-91c5-757f58154ca8"
+                            },
+                            {
+                                "type": "Annotation",
+                                "body": [
+                                    {
+                                        "type": "TextualBody",
+                                        "value": "Leonard Johnson, fellow community member, living on Stanton Rd.",
+                                        "purpose": "commenting"
+                                    }
+                                ],
+                                "target": {
+                                    "source": "http://localhost:5173/images/geographia-1913.jpg",
+                                    "selector": {
+                                        "type": "FragmentSelector",
+                                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                        "value": "xywh=pixel:5151.91357421875,2217.56494140625,0,0"
+                                    },
+                                    "renderedVia": {
+                                        "name": "point"
+                                    }
+                                },
+                                "@context": "http://www.w3.org/ns/anno.jsonld",
+                                "id": "#3de478aa-374b-454e-901a-4108f59e6e1f"
                             }
                         ];
 
@@ -369,6 +415,7 @@
         }
 
         anno.on('createAnnotation', function(annotation, overrideId) {
+            console.log(annotation)
             annotation_list.push(annotation)
             console.log(annotation_list)
         });
