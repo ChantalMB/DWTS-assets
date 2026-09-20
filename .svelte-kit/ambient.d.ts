@@ -26,23 +26,26 @@
  * ```
  */
 declare module '$env/static/private' {
-	export const MANPATH: string;
+	export const GDAL_DRIVER_PATH: string;
 	export const TERM_PROGRAM: string;
 	export const NODE: string;
+	export const PROJ_DATA: string;
 	export const INIT_CWD: string;
 	export const TERM: string;
 	export const SHELL: string;
-	export const npm_config_metrics_registry: string;
 	export const HOMEBREW_REPOSITORY: string;
 	export const TMPDIR: string;
 	export const npm_config_global_prefix: string;
 	export const CONDA_SHLVL: string;
 	export const CONDA_PROMPT_MODIFIER: string;
 	export const TERM_PROGRAM_VERSION: string;
+	export const GSETTINGS_SCHEMA_DIR_CONDA_BACKUP: string;
+	export const FPATH: string;
 	export const COLOR: string;
 	export const TERM_SESSION_ID: string;
 	export const npm_config_noproxy: string;
 	export const npm_config_local_prefix: string;
+	export const _CONDA_EXE: string;
 	export const USER: string;
 	export const npm_config_globalconfig: string;
 	export const CONDA_EXE: string;
@@ -50,7 +53,10 @@ declare module '$env/static/private' {
 	export const __CF_USER_TEXT_ENCODING: string;
 	export const npm_execpath: string;
 	export const _CE_CONDA: string;
+	export const CPL_ZIP_ENCODING: string;
 	export const PATH: string;
+	export const PROJ_NETWORK: string;
+	export const GSETTINGS_SCHEMA_DIR: string;
 	export const npm_package_json: string;
 	export const _: string;
 	export const LaunchInstanceID: string;
@@ -60,15 +66,16 @@ declare module '$env/static/private' {
 	export const __CFBundleIdentifier: string;
 	export const npm_command: string;
 	export const PWD: string;
-	export const DBUS_LAUNCHD_SESSION_BUS_SOCKET: string;
 	export const npm_lifecycle_event: string;
 	export const EDITOR: string;
 	export const npm_package_name: string;
 	export const LANG: string;
 	export const npm_config_npm_version: string;
 	export const XPC_FLAGS: string;
+	export const GDAL_DATA: string;
 	export const npm_config_node_gyp: string;
 	export const npm_package_version: string;
+	export const _CONDA_ROOT: string;
 	export const _CE_M: string;
 	export const XPC_SERVICE_NAME: string;
 	export const HOME: string;
@@ -115,23 +122,26 @@ declare module '$env/static/public' {
  */
 declare module '$env/dynamic/private' {
 	export const env: {
-		MANPATH: string;
+		GDAL_DRIVER_PATH: string;
 		TERM_PROGRAM: string;
 		NODE: string;
+		PROJ_DATA: string;
 		INIT_CWD: string;
 		TERM: string;
 		SHELL: string;
-		npm_config_metrics_registry: string;
 		HOMEBREW_REPOSITORY: string;
 		TMPDIR: string;
 		npm_config_global_prefix: string;
 		CONDA_SHLVL: string;
 		CONDA_PROMPT_MODIFIER: string;
 		TERM_PROGRAM_VERSION: string;
+		GSETTINGS_SCHEMA_DIR_CONDA_BACKUP: string;
+		FPATH: string;
 		COLOR: string;
 		TERM_SESSION_ID: string;
 		npm_config_noproxy: string;
 		npm_config_local_prefix: string;
+		_CONDA_EXE: string;
 		USER: string;
 		npm_config_globalconfig: string;
 		CONDA_EXE: string;
@@ -139,7 +149,10 @@ declare module '$env/dynamic/private' {
 		__CF_USER_TEXT_ENCODING: string;
 		npm_execpath: string;
 		_CE_CONDA: string;
+		CPL_ZIP_ENCODING: string;
 		PATH: string;
+		PROJ_NETWORK: string;
+		GSETTINGS_SCHEMA_DIR: string;
 		npm_package_json: string;
 		_: string;
 		LaunchInstanceID: string;
@@ -149,15 +162,16 @@ declare module '$env/dynamic/private' {
 		__CFBundleIdentifier: string;
 		npm_command: string;
 		PWD: string;
-		DBUS_LAUNCHD_SESSION_BUS_SOCKET: string;
 		npm_lifecycle_event: string;
 		EDITOR: string;
 		npm_package_name: string;
 		LANG: string;
 		npm_config_npm_version: string;
 		XPC_FLAGS: string;
+		GDAL_DATA: string;
 		npm_config_node_gyp: string;
 		npm_package_version: string;
+		_CONDA_ROOT: string;
 		_CE_M: string;
 		XPC_SERVICE_NAME: string;
 		HOME: string;

@@ -371,6 +371,29 @@
                                 },
                                 "@context": "http://www.w3.org/ns/anno.jsonld",
                                 "id": "#3de478aa-374b-454e-901a-4108f59e6e1f"
+                            },
+                            {
+                                "type": "Annotation",
+                                "body": [
+                                    {
+                                        "type": "TextualBody",
+                                        "value": "The Berry residence, at 40 Larch Street.",
+                                        "purpose": "commenting"
+                                    }
+                                ],
+                                "target": {
+                                    "source": "http://localhost:5173/images/geographia-1913.jpg",
+                                    "selector": {
+                                        "type": "FragmentSelector",
+                                        "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                        "value": "xywh=pixel:3025.210205078125,1188.084228515625,0,0"
+                                    },
+                                    "renderedVia": {
+                                        "name": "point"
+                                    }
+                                },
+                                "@context": "http://www.w3.org/ns/anno.jsonld",
+                                "id": "#c318e2e1-8f80-479e-9602-aa095431b5db"
                             }
                         ];
 
@@ -408,17 +431,17 @@
     });
 
     function initAnnoCanvas() {
-        anno.setDrawingTool('point');
+        // anno.setDrawingTool('point');
 
         for (var i = 0; i < annotation_list.length; i++) {
             anno.addAnnotation(annotation_list[i]);
         }
 
-        anno.on('createAnnotation', function(annotation, overrideId) {
-            console.log(annotation)
-            annotation_list.push(annotation)
-            console.log(annotation_list)
-        });
+        // anno.on('createAnnotation', function(annotation, overrideId) {
+        //     console.log(annotation)
+        //     annotation_list.push(annotation)
+        //     console.log(annotation_list)
+        // });
     }
 
 </script>
