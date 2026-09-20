@@ -1,11 +1,11 @@
-import{_ as r}from"../chunks/preload-helper.a4192956.js";import{s as g,n as s,o as w}from"../chunks/scheduler.e108d1fd.js";import{S as u,i as f,g as y,h as b,j as T,f as d,k as h,a as v}from"../chunks/index.a21d6cee.js";/* empty css                                */function x(i){let e;return{c(){e=y("div"),this.h()},l(n){e=b(n,"DIV",{id:!0,class:!0}),T(e).forEach(d),this.h()},h(){h(e,"id","openseadragon"),h(e,"class","svelte-1uu3gy")},m(n,a){v(n,e,a)},p:s,i:s,o:s,d(n){n&&d(e)}}}function S(i){let e=[{type:"Annotation",body:[{type:"TextualBody",value:`Greenep’s Tobacco and Sweets
+import{_ as r}from"../chunks/preload-helper.a4192956.js";import{s as g,n as s,o as w}from"../chunks/scheduler.92fb626a.js";import{S as u,i as f,g as y,h as b,j as T,f as d,k as h,a as v}from"../chunks/index.337b77e0.js";/* empty css                                */function x(i){let e;return{c(){e=y("div"),this.h()},l(n){e=b(n,"DIV",{id:!0,class:!0}),T(e).forEach(d),this.h()},h(){h(e,"id","openseadragon"),h(e,"class","svelte-1uu3gy")},m(n,a){v(n,e,a)},p:s,i:s,o:s,d(n){n&&d(e)}}}function S(i){let e=[{type:"Annotation",body:[{type:"TextualBody",value:`Greenep’s Tobacco and Sweets
 
-426 Cheetham Hill Road
+Cheetham Hill Road
 
 Greenep’s Tobacco and Sweets shop was a popular spot in Cheetham Hill. They sold Needler’s sweets as well as Cadbury’s chocolates and cocoa.
 
 The shop was not bombed in December 1940 and was a place where families from the neighbour would meet and share community news.
-`,purpose:"commenting"}],target:{source:"http://localhost:5173/images/manchester-1926.jpg",selector:{type:"FragmentSelector",conformsTo:"http://www.w3.org/TR/media-frags/",value:"xywh=pixel:3235.484130859375,1307.2132568359375,0,0"},renderedVia:{name:"point"}},"@context":"http://www.w3.org/ns/anno.jsonld",id:"#a5878903-7514-438f-ac19-a1f742fa2c3d"},{type:"Annotation",body:[{type:"TextualBody",value:`Manchester Cathedral
+`,purpose:"commenting"}],target:{source:"http://localhost:5173/images/manchester-1926.jpg",selector:{type:"FragmentSelector",conformsTo:"http://www.w3.org/TR/media-frags/",value:"xywh=pixel:3435.636962890625,1605.8677978515625,0,0"},renderedVia:{name:"point"}},"@context":"http://www.w3.org/ns/anno.jsonld",id:"#a5878903-7514-438f-ac19-a1f742fa2c3d"},{type:"Annotation",body:[{type:"TextualBody",value:`Manchester Cathedral
 
 Of Deansgate Victoria Street, Off Deansgate, Manchester, GB M3 1SX
 
@@ -13,7 +13,7 @@ Manchester Cathedral is the church of the Anglican Diocese of Manchester, seat o
 
 Grangethorpe Road
 
-The Manchester High School for Girls was established in 1874  The school was founded in 1874 by prominent residents. It was located on Grangthorpe Road in 1940 and the buildings were destroyed by the bombings on December 22, 1940.`,purpose:"commenting"}],target:{source:"http://localhost:5173/images/manchester-1926.jpg",selector:{type:"FragmentSelector",conformsTo:"http://www.w3.org/TR/media-frags/",value:"xywh=pixel:3881.3466796875,4191.96484375,0,0"},renderedVia:{name:"point"}},"@context":"http://www.w3.org/ns/anno.jsonld",id:"#08e8cb00-5bb7-4c85-8767-c5163f90b2c5"},{type:"Annotation",body:[{type:"TextualBody",value:`Cheetham Hill Assembly Rooms
+The Manchester High School for Girls was established in 1874  The school was founded in 1874 by prominent residents. It was located on Grangthorpe Road in 1940 and the buildings were destroyed by the bombings on December 22, 1940.`,purpose:"commenting"}],target:{source:"http://localhost:5173/images/manchester-1926.jpg",selector:{type:"FragmentSelector",conformsTo:"http://www.w3.org/TR/media-frags/",value:"xywh=pixel:3881.3466796875,4191.96484375,0,0"},renderedVia:{name:"point"}},"@context":"http://www.w3.org/ns/anno.jsonld",id:"#08e8cb00-5bb7-4c85-8767-c5163f90b2c5"},{type:"Annotation",body:[{type:"TextualBody",value:`Cheetham Hill Assembly Rooms (Community bomb shelter)
 
 111 Cheetham Hill Road
 
